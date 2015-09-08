@@ -1,0 +1,242 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <title>Pâtissez</title>
+
+    <link rel="stylesheet" href="css/bootstrap.min.css" type="text/css">
+
+    <link href='http://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800' rel='stylesheet' type='text/css'>
+    <link href='http://fonts.googleapis.com/css?family=Merriweather:400,300,300italic,400italic,700,700italic,900,900italic' rel='stylesheet' type='text/css'>
+    <link rel="stylesheet" href="font-awesome/css/font-awesome.min.css" type="text/css">
+
+    <link rel="stylesheet" href="css/animate.min.css" type="text/css">
+
+    <link rel="stylesheet" href="css/creative.css" type="text/css">
+
+    
+</head>
+
+<body id="page-top">
+
+    <nav id="mainNav" class="navbar navbar-default navbar-fixed-top">
+        <div class="container-fluid">
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+                    <span class="sr-only">Toggle navigation</span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                <a class="navbar-brand page-scroll" href="#page-top">Pâtissez</a>
+            </div>
+
+            <!-- Collect the nav links, forms, and other content for toggling -->
+            <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+                <ul class="nav navbar-nav navbar-right">
+                    <li>
+                        <a class="page-scroll" href="#about">About Us</a>
+                    </li>
+                    <li>
+                        <a class="page-scroll" href="#menu">Menu</a>
+                    </li>
+                    <li>
+                        <a class="page-scroll" href="#directions">Directions</a>
+                    </li>
+                    <li>
+                        <a class="page-scroll" href="#contact">Contact</a>
+                    </li>
+                </ul>
+            </div>
+            
+        </div>
+    
+    </nav>
+
+    <header style="background-image: url(img/milkshakes4g.png)">
+        <div class="header-content">
+            <div class="header-content-inner wow bounceIn">
+                <h1>Pâtissez</h1>
+                <hr>
+                <p>A cafe located in the centre of Manuka</p>
+                <a class="btn btn-primary btn-xl page-scroll" href="#about">Learn More</a>
+            </div>
+        </div>
+    </header>
+
+    <section class="bg-primary" id="about">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-8 col-lg-offset-2 text-center">
+                    <h2 class="section-heading">The Best Milkshakes in Canberra</h2>
+                    <hr class="light">
+                    <p class="text-faded">Pâtissez is a new cafe in Manuka founded by [name]</p>
+                    
+                </div>
+            </div>
+        </div>
+    </section>
+    
+     
+    
+    <section class="no-padding" id="menu">
+        <div class="container-fluid">
+            <div class="row no-gutter">
+                <div class="col-lg-4 col-sm-6">
+                    
+                    <a class="portfolio-box page-scroll" href= "menu.html#food">
+                        <img style="width: 100%;" src="img/burger.jpg" class="img-responsive" alt="">
+                        <div class="portfolio-box-caption">
+                            <div class="portfolio-box-caption-content">
+                                
+                                    <img style="width: 100%" src="img/food.png">
+                                
+                            </div>
+                        </div>
+                    </a>
+                </div>
+                <div class="col-lg-4 col-sm-6">
+                    <a class="portfolio-box page-scroll" href= "menu.html#shakes">
+                        <img src="img/shake.jpg" class="img-responsive" alt="">
+                        <div class="portfolio-box-caption">
+                            <div class="portfolio-box-caption-content">
+                                <img style="width: 100%" src="img/shakes.png">
+                            </div>
+                        </div>
+                    </a>
+                </div>
+            
+                
+                <div class="col-lg-4 col-sm-6">
+                    <a class="portfolio-box page-scroll" href= "menu.html#coffee">
+                        <img src="img/coffee.jpg" class="img-responsive" alt="">
+                        
+                        <div class="portfolio-box-caption">
+                            <div class="portfolio-box-caption-content">
+                                <img src="img/coffee.png" class="img-responsive" alt="">
+                            </div>
+                        </div>
+                    </a>
+                </div>
+                <div class="col-lg-4 col-sm-6">
+                    <a class="portfolio-box page-scroll" href= "menu.html#desserts">
+                        <img src="img/dessert.jpg" class="img-responsive" alt="">
+                        <div class="portfolio-box-caption">
+                            <div class="portfolio-box-caption-content">
+                                <img style="width: 100%;" src="img/dessertannotated.png" class="img-responsive" alt="">
+                            </div>
+                        </div>
+                    </a>
+                </div>
+                <div class="col-lg-4 col-sm-6">
+                    <a class="portfolio-box page-scroll" href="menu.html#pastries">
+                        <img src="img/pastry.png" style="width: 100%" class="img-responsive" alt="">
+                        <div class="portfolio-box-caption">
+                            <div class="portfolio-box-caption-content">
+                                <img style="width: 100%;" src="img/pastryannotated.png" class="img-responsive" alt="">
+                            </div>
+                        </div>
+                    </a>
+                </div>
+                <div class="col-lg-4 col-sm-6">
+                    <a class="portfolio-box page-scroll" href= "menu.html#cakes">
+                        <img src="img/cake.jpg" class="img-responsive" alt="">
+                        <div class="portfolio-box-caption">
+                            <div class="portfolio-box-caption-content">
+                                <img style="width: 100%;" src="img/cakeannotated.png" class="img-responsive" alt="">
+                            </div>
+                        </div>
+                    </a>
+                </div>
+            </div>
+        </div>
+    </section>
+    
+    <aside class="bg-dark" id="directions">
+        <div class="container text-center">
+            <div class="call-to-action">
+                <h2>Come Visit</h2>
+                <a href="" class="btn btn-default btn-xl wow bounceIn">Get Directions</a>
+            </div>
+        </div>
+    </aside>
+
+    <section id="contact">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12 text-center">
+                    <h2 class="section-heading">Contact</h2>
+                    <hr class="primary">
+                </div>
+            </div>
+        </div>
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-3 col-md-6 text-center">
+                    <div class="service-box">
+                        <i class="fa fa-4x fa-phone wow bounceIn text-primary"></i>
+                        <h3>Phone</h3>
+                        <p class="text-muted">Call us from 8 to 4</p>
+                    </div>
+                </div>
+                <div class="col-lg-3 col-md-6 text-center">
+                    <div class="service-box">
+                        <i class="fa fa-4x fa-envelope-o wow bounceIn text-primary" data-wow-delay=".1s"></i>
+                        <h3>Email</h3>
+                        <p class="text-muted">Email us what you thought.</p>
+                    </div>
+                </div>
+                <div class="col-lg-3 col-md-6 text-center">
+                    <div class="service-box">
+                        <i class="fa fa-4x fa-map-marker wow bounceIn text-primary" data-wow-delay=".2s"></i>
+                        <h3>Visit Us</h3>
+                        <p class="text-muted">Give us a visit</p>
+                    </div>
+                </div>
+                <div class="col-lg-3 col-md-6 text-center">
+                    <div class="service-box">
+                        <i class="fa fa-4x fa-laptop wow bounceIn text-primary" data-wow-delay=".3s"></i>
+                        <h3>Social Media</h3>
+                        <p class="text-muted">Contact us through social media</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+
+    <aside class="bg-beige">
+        <div class="container text-center">
+            <div class="call-to-action">
+                <h2>We hope to see you soon</h2>
+                <a href="#page-top" class="btn btn-default btn-xl wow bounceIn page-scroll">To the top</a>
+            </div>
+        </div>
+    </aside>
+
+
+
+    
+    <script src="js/jquery.js"></script>
+
+    
+    <script src="js/bootstrap.min.js"></script>
+
+    
+    <script src="js/jquery.easing.min.js"></script>
+    <script src="js/jquery.fittext.js"></script>
+    <script src="js/wow.min.js"></script>
+
+    
+    <script src="js/creative.js"></script>
+
+</body>
+
+</html>
